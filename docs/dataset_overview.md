@@ -67,4 +67,59 @@ The final dataset contains:
   * balanced difficulty and category distributions suitable for supervised routing experiments.
 </pre>
 
+6. Train / Validation / Test Splits
 
+Deterministic splits were created using stratified sampling by category:
+<pre>
+  * Training: 70%
+  * Validation: 15%
+  * Test: 15%
+</pre>
+
+The split files are provided in the data/ directory as:
+ 
+ <pre>
+  * train.csv
+  * val.csv
+  * test.csv
+</pre>
+
+**7. Intended Use**
+
+This dataset is intended for:
+<pre>
+  * evaluating routing and intent classification in financial AI systems,
+  * studying hybrid and multi-agent architectures,
+  * analyzing failures in implicit numerical and advisory reasoning,
+  * benchmarking ESG-aware financial NLP systems.
+</pre>
+
+It is not designed for benchmarking answer generation quality.
+
+8. Relationship to the Paper
+
+This repository accompanies the paper:
+<pre>
+ 
+**FinGuard-SDG: A Hybrid Multi-Agent Routing Architecture for Sustainable Financial Analytics**
+ 
+IEEE CSCloud 2025 (extended journal version under preparation)
+</pre>
+
+The paper contains:
+<pre>
+  * the full dataset construction methodology,
+  * experimental results,
+  * ablation studies,
+  * and discussion of limitations and future work
+</pre>
+
+9. License and Usage
+
+The dataset is provided for **research and educational use**.
+
+Users are requested to:
+<pre>
+  * cite the accompanying paper when using the dataset,
+  * respect ethical guidelines when applying the dataset to financial decision-making systems.
+</pre>
