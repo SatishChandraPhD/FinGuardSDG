@@ -8,7 +8,7 @@
 
 The repository provides:
 
-  a curated multi-task financial benchmark dataset aligned with the UN Sustainable Development Goals (SDGs),
+*- a curated multi-task financial benchmark dataset aligned with the UN Sustainable Development Goals (SDGs),
   
   and a hybrid routing architecture for financial AI systems that combines
   keyword heuristics, encoder-based semantic routing, and selective LLM fallback.
