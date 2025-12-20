@@ -91,7 +91,22 @@ A concise dataset overview is provided in docs/dataset_overview.md.
 
 All experiments were implemented as **Jupyter notebooks** and executed in a **Google Colab environment**.
 
+**Pipeline order**
 
+ 1. Data QA & Validation
+      <pre>01_data_QA.ipynb</pre>
+2.  Deterministic Train/Val/Test Split + JSONL export
+      <pre>02_data_split_and_export.ipynb</pre>
+3.  Keyword-only Router (baseline)
+      <pre>03_keyword_router.ipynb</pre>
+4.  Encoder Router (MiniLM)
+      <pre>04_encoder_router.ipynb</pre>
+5.  Hybrid Router (Keyword → Encoder)
+      <pre>05_hybrid_router.ipynb</pre>
+6.  LLM Fallback Router (Llama-2)
+      <pre>06_llm_fallback_router.ipynb</pre>
+
+All experiments use **fixed random seeds** to ensure reproducibility.
 
 
 
