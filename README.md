@@ -113,3 +113,42 @@ All experiments use **fixed random seeds** to ensure reproducibility.
 * Encoder Router (MiniLM)<pre>Sentence-embedding-based semantic classification.</pre>
 * Hybrid Router (Keyword → Encoder)<pre>Keyword routing for explicit numericals, encoder fallback for ambiguity.</pre>
 * Hybrid + LLM Fallback (Llama-2)<pre>LLM invoked only for low-confidence cases.</pre>
+
+**📈 Reproducibility**
+ * Deterministic dataset splits
+ * Fixed random seeds
+ * Greedy decoding for LLM routing
+ * Models saved locally by the user (not distributed)
+   
+Trained models are **not included** in the repository.
+Users may save models locally or mount Google Drive when using Colab.
+
+**🔐 Model Storage (Colab Example)**
+<pre>from google.colab import drive
+drive.mount('/content/drive')
+
+MODEL_DIR = "/content/drive/MyDrive/FinGuard/models/"
+</pre>
+
+Models are saved and loaded relative to MODEL_DIR.
+
+**📄 Related Publication**
+
+This repository accompanies:
+<pre>FinGuard-SDG: A Hybrid Multi-Agent Routing Architecture for Sustainable Financial Analytics
+IEEE CSCloud 2025
+(Extended journal version submitted to FinTech and Sustainable Innovation)</pre>
+A DOI / preprint link will be added upon publication.
+
+**📜 License**
+
+This repository is released under the MIT License.
+The dataset is intended for research and educational use.
+
+**📬 Contact****
+
+**Satish Chandra**
+
+PhD Researcher
+
+GitHub: https://github.com/SatishChandraPhD
