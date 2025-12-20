@@ -87,7 +87,10 @@ A concise dataset overview is provided in docs/dataset_overview.md.
 └── LICENSE
 </pre>
 
+**⚙️ Experimental Pipeline**
 
+All experiments were implemented as **Jupyter notebooks** and executed in a **Google Colab environment.
+**
 
 
 
