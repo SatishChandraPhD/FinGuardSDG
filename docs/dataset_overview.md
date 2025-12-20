@@ -10,3 +10,5 @@ Unlike traditional QA datasets, this benchmark is **not intended for answer gene
   * ESG and sustainability analysis,
   * advisory and scenario-based investor guidance.
 </pre>
+
+The dataset supports research at the **intersection of financial technology and sustainability**, in alignment with the **United Nations Sustainable Development Goals (SDGs)**.
