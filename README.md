@@ -52,7 +52,40 @@ This work proposes and evaluates a **hybrid routing architecture** that is:
 A concise dataset overview is provided in docs/dataset_overview.md.
 
 **📁 Repository Structure**
-
+<pre>
+ FinGuardSDG/
+├── data/
+│   ├── FinGuard_SDG_Benchmark_v1.0.csv
+│   ├── train.csv
+│   ├── val.csv
+│   └── test.csv
+│
+├── data_processing/
+│   ├── 01_data_QA.ipynb
+│   └── 02_data_split_and_export.ipynb
+│
+├── notebooks/
+│   ├── 03_keyword_router.ipynb
+│   ├── 04_encoder_router.ipynb
+│   ├── 05_hybrid_router.ipynb
+│   └── 06_llm_fallback_router.ipynb
+│
+├── models/
+│   └── .gitkeep
+│
+├── results/
+│   ├── keyword/
+│   ├── encoder/
+│   ├── hybrid/
+│   └── llm/
+│
+├── docs/
+│   └── dataset_overview.md
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
+</pre>
 
 
 
