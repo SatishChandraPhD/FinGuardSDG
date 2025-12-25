@@ -108,7 +108,7 @@ All experiments were implemented as **Jupyter notebooks** and executed in a **Go
 
 All experiments use **fixed random seeds** to ensure reproducibility.
 
-**🤖 Routing Architectures Evaluated**
+**🤖 Routing Architectures Evaluated** All reported metrics and confidence intervals are computed using ”07_Unified_Evaluation.ipynb"
 * Keyword Router<pre>Lightweight lexical baseline. </pre>
 * Encoder Router (MiniLM)<pre>Sentence-embedding-based semantic classification.</pre>
 * Hybrid Router (Keyword → Encoder)<pre>Keyword routing for explicit numericals, encoder fallback for ambiguity.</pre>
