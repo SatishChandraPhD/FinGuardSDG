@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "train_size": 812,
+  "val_size": 174,
+  "test_size": 174,
+  "category_distribution_train": {
+    "quantitative": 308,
+    "advisory": 182,
+    "conceptual": 168,
+    "esg": 154
+  },
+  "category_distribution_val": {
+    "quantitative": 66,
+    "advisory": 39,
+    "conceptual": 36,
+    "esg": 33
+  },
+  "category_distribution_test": {
+    "quantitative": 66,
+    "advisory": 39,
+    "conceptual": 36,
+    "esg": 33
+  }
+}
