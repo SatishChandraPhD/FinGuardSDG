@@ -1,0 +1,175 @@
+id,category,subcategory,question_text,answer_text,difficulty,source
+C-CF-022,conceptual,corporate_finance,Why does separation of ownership and control create agency costs?,Managers may pursue personal objectives rather than maximizing firm value.,2,literature-inspired
+E-ESG-037,esg,esg_reporting,What risk arises when ESG disclosures are overly complex?,Users may struggle to interpret and apply information.,2,synthetic
+Q-EQ-022,quantitative,equity_valuation,A stock with stable dividends has lower valuation volatility than a growth stock. Why?,Stable cash flows reduce uncertainty.,1,literature-inspired
+E-ENV-006,esg,environment_climate,How do extreme weather events affect business operations?,They disrupt supply chains and damage physical assets.,1,literature-inspired
+Q-RISK-017,quantitative,risk_volatility,Why do emerging market assets often have higher volatility?,Higher economic and political uncertainty.,1,literature-inspired
+A-ADV-189,advisory,market_scenarios,How does framing recovery as uncertain but possible help clients?,It sets realistic expectations without false optimism.,2,literature-inspired
+C-ME-023,conceptual,market_efficiency,What is the size effect?,Small-cap stocks often earn higher average returns than large-cap stocks.,2,literature-inspired
+Q-DER-010,quantitative,options_basics,What limits the maximum loss for a call option buyer?,The option premium paid.,1,template
+E-ESG-023,esg,esg_reporting,What is the role of materiality assessment in ESG reporting?,To identify ESG issues that significantly impact value and stakeholders.,2,literature-inspired
+C-FI-023,conceptual,financial_regulation,Why does regulatory arbitrage pose challenges to supervisors?,Firms may exploit differences in regulations to increase risk.,2,literature-inspired
+A-ADV-089,advisory,asset_allocation,Why might portfolios drift toward higher risk over time without rebalancing?,Riskier assets may outperform during bull markets.,2,literature-inspired
+A-ADV-260,advisory,esg_advisory,How does addressing greenwashing concerns support sustainable finance goals?,It strengthens credibility and capital allocation efficiency.,1,literature-inspired
+E-ENV-018,esg,environment_climate,What role do insurers play in managing climate risk?,They price and transfer climate-related risks.,2,literature-inspired
+A-ADV-256,advisory,esg_advisory,How does ESG risk differ from traditional financial risk?,"It includes environmental, social, and governance exposures.",1,literature-inspired
+C-ME-019,conceptual,market_efficiency,Why does efficient market theory support passive investing?,Active strategies rarely beat the market after costs.,1,literature-inspired
+Q-PORT-057,quantitative,portfolio_risk,A portfolio’s volatility increases even though expected return remains constant. What changed?,Risk exposure increased.,2,synthetic
+C-FI-017,conceptual,financial_regulation,What is the primary objective of prudential regulation?,To ensure the safety and soundness of financial institutions.,1,literature-inspired
+A-ADV-231,advisory,esg_advisory,Why might ESG-aligned portfolios perform differently from broad market benchmarks?,Exclusions and tilts can change risk-return profiles.,2,literature-inspired
+E-ESG-030,esg,esg_reporting,How can poor data quality undermine ESG integration?,It leads to inaccurate risk assessment and decisions.,2,literature-inspired
+Q-RISK-026,quantitative,risk_var,A 99% VaR is larger than a 95% VaR. Why?,It captures more extreme potential losses.,1,template
+Q-DER-025,quantitative,options_basics,Why are longer-maturity options generally more expensive?,They have greater time value.,1,literature-inspired
+Q-EQ-042,quantitative,equity_valuation,A stock valuation falls when inflation expectations rise. Which valuation component is most affected?,The discount rate.,2,literature-inspired
+Q-BOND-011,quantitative,bond_pricing,"A bond with a face value of ₹1,000 pays ₹90 annually and matures in 8 years. If the YTM is 9%, what is the bond’s price?","The bond’s price is ₹1,000.00.",1,template
+Q-PORT-035,quantitative,portfolio_risk,A portfolio’s risk is lower than the weighted average of individual risks. Why?,Correlation between assets is less than one.,2,synthetic
+C-FI-028,conceptual,financial_regulation,How does international regulatory coordination enhance stability?,It reduces cross-border regulatory gaps.,2,literature-inspired
+C-ME-030,conceptual,market_efficiency,Why are some anomalies unstable over time?,They may disappear as market participants adapt.,2,literature-inspired
+A-ADV-203,advisory,market_scenarios,Why can excessive information worsen decision-making under uncertainty?,Information overload increases confusion and anxiety.,2,literature-inspired
+E-SOC-028,esg,social_labor,Why is child labor a material ESG risk?,"It creates legal, reputational, and ethical risks.",1,literature-inspired
+C-MKT-037,conceptual,financial_markets,How can manipulation of benchmarks affect financial markets?,It distorts pricing and undermines market trust.,3,literature-inspired
+Q-RISK-023,quantitative,risk_var,Why does VaR fail to capture extreme tail losses?,It does not describe losses beyond the confidence threshold.,2,literature-inspired
+A-ADV-130,advisory,asset_allocation,Why do long-term investors often prioritize ESG factors?,ESG risks affect long-term value creation.,1,literature-inspired
+A-ADV-211,advisory,esg_advisory,Why should advisors consider an investor’s ESG preferences?,To align investments with values and long-term objectives.,1,literature-inspired
+Q-ADV-036,quantitative,advanced_tvm,A discount rate rise impacts long-duration projects how?,More negatively.,2,literature-inspired
+Q-EQ-030,quantitative,equity_valuation,A firm’s valuation increases even though dividends are unchanged. Which assumption is most likely revised upward?,Expected growth rate.,2,synthetic
+E-SOC-042,esg,social_labor,Why is customer health and safety a social ESG concern?,Product failures can harm users and damage trust.,1,literature-inspired
+Q-PRD-030,quantitative,options,A call option gives the right to do what?,Buy the underlying asset.,1,literature-inspired
+C-CF-023,conceptual,corporate_finance,What are agency costs?,Costs arising from conflicts between principals and agents.,1,template
+Q-DER-004,quantitative,options_basics,When is a call option considered in-the-money?,When the market price exceeds the strike price.,1,template
+A-ADV-218,advisory,esg_advisory,How does ESG integration affect asset selection frameworks?,It may tilt choices toward responsible issuers.,2,literature-inspired
+E-GOV-024,esg,governance_ethics,How does whistleblower protection strengthen governance?,It encourages reporting without fear of retaliation.,2,literature-inspired
+A-ADV-132,advisory,asset_allocation,Why might ESG-aligned portfolios differ across investors?,Preferences and values vary among individuals.,1,literature-inspired
+Q-DER-028,quantitative,options_basics,An investor expects moderate price movement and sells options. What volatility view does this reflect?,Bearish on volatility.,2,synthetic
+Q-DER-054,quantitative,swaps_basics,Which party benefits when floating rates rise in an interest rate swap?,The floating-rate receiver.,2,template
+A-ADV-108,advisory,asset_allocation,Why might investors reduce exposure to high-risk assets during economic slowdowns?,To limit drawdowns and preserve capital.,1,literature-inspired
+Q-TVM-022,quantitative,time_value_of_money,"An investor plans to receive ₹4,00,000 after 7 years. If the discount rate is 8%, how much should be invested today?","The present value required is ₹2,33,334.84.",2,template
+Q-PORT-037,quantitative,portfolio_beta,An asset has a beta of 1.5. What does this imply?,It is 50% more volatile than the market.,1,template
+Q-ADV-035,quantitative,advanced_tvm,"A firm receives ₹90,000 annually forever starting next year at 9%. PV?","₹10,00,000.",1,template
+A-ADV-059,advisory,investor_profiling,How does responsible suitability assessment enhance market trust?,It reduces harm and builds confidence in advisory systems.,1,literature-inspired
+Q-RISK-028,quantitative,risk_var,Why is VaR not a coherent risk measure?,It fails the subadditivity property.,3,literature-inspired
+A-ADV-246,advisory,esg_advisory,What is greenwashing in the context of ESG investing?,Misleading claims that exaggerate sustainability practices.,1,literature-inspired
+Q-ADV-041,quantitative,advanced_tvm,"A firm receives ₹1,20,000 annually for 5 years at 10%. PV?","₹4,54,856.",2,template
+A-ADV-242,advisory,esg_advisory,How should advisors communicate uncertainty in ESG data and ratings?,By explaining limitations and variability across providers.,2,literature-inspired
+Q-PORT-048,quantitative,portfolio_capm,Why does CAPM ignore unsystematic risk in expected returns?,It can be diversified away.,2,literature-inspired
+A-ADV-100,advisory,asset_allocation,How does disciplined asset allocation support long-term advisory outcomes?,It aligns risk exposure with investor objectives over time.,1,literature-inspired
+C-CF-003,conceptual,corporate_finance,What is financial leverage?,The use of debt financing to increase potential returns to equity holders.,1,template
+A-ADV-131,advisory,asset_allocation,How can ESG integration influence portfolio risk management?,It helps identify non-financial risks early.,2,literature-inspired
+C-BF-012,conceptual,behavioral_finance,How can mental accounting distort portfolio decisions?,Investors may ignore overall portfolio risk.,2,literature-inspired
+Q-ADV-033,quantitative,advanced_tvm,A coupon bond priced at par implies what relationship?,Coupon = YTM.,1,literature-inspired
+C-ME-018,conceptual,market_efficiency,What does efficiency imply about market timing strategies?,They are unlikely to consistently succeed.,1,literature-inspired
+Q-BOND-040,quantitative,bond_convexity,How does convexity affect bond price volatility relative to duration alone?,It reduces estimation error for price changes.,2,synthetic
+Q-PORT-001,quantitative,portfolio_returns,A portfolio allocates 60% to Stock A with a return of 10% and 40% to Stock B with a return of 5%. What is the portfolio return?,The portfolio return is 8.00%.,1,template
+E-ESG-017,esg,esg_fundamentals,How does ESG transparency benefit capital markets?,It improves investor confidence and capital allocation efficiency.,2,literature-inspired
+Q-RISK-008,quantitative,risk_volatility,Why might volatility underestimate true investment risk?,It treats upside and downside variability equally.,2,literature-inspired
+E-ENV-034,esg,environment_transition,What is a net-zero target?,A commitment to balance emissions with removals over time.,1,template
+Q-ADV-022,quantitative,advanced_tvm,"A firm receives ₹80,000 annually for 4 years at 10%. Compute PV.","₹2,53,673.",2,template
+Q-DER-060,quantitative,mixed_derivatives,A firm hedges commodity prices but still experiences losses. What risk remains?,Basis risk.,2,literature-inspired
+E-ENV-056,esg,environment_energy,How can investments in renewables support economic development?,They create jobs and foster innovation.,2,literature-inspired
+A-ADV-233,advisory,esg_advisory,Why is impact measurement challenging in ESG investing?,Outcomes are complex and not always directly quantifiable.,2,literature-inspired
+Q-EQ-049,quantitative,equity_valuation,A firm with stable cash flows is less sensitive to valuation shocks than a growth firm. Why?,Cash flows are less uncertain and nearer term.,2,literature-inspired
+A-ADV-058,advisory,investor_profiling,Why is periodic reassessment important for constrained investors?,Constraints and circumstances may evolve.,1,literature-inspired
+Q-ADV-023,quantitative,advanced_tvm,A bond trades above par. What does this imply about coupon vs YTM?,Coupon > YTM.,1,literature-inspired
+Q-EQ-027,quantitative,equity_valuation,"A high-growth stock experiences a sharp price decline after interest rates rise, even though earnings remain unchanged. Why?",The discount rate increase reduces present value of future growth.,3,synthetic
+E-SOC-031,esg,social_labor,How does fair wage policy contribute to social sustainability?,It supports worker wellbeing and economic stability.,2,literature-inspired
+E-ESG-013,esg,esg_fundamentals,Why is ESG considered a long-term investment approach?,Sustainability factors influence future cash flows and risk profiles.,1,literature-inspired
+E-ENV-059,esg,environment_energy,How do green bonds support environmental objectives?,They finance projects with positive environmental impact.,1,literature-inspired
+Q-ADV-013,quantitative,advanced_tvm,"If discount rate increases, what happens to NPV?",NPV decreases.,1,literature-inspired
+E-SOC-030,esg,social_labor,Why do investors monitor workplace safety metrics?,Safety incidents disrupt operations and increase liabilities.,1,literature-inspired
+E-ENV-055,esg,environment_energy,What role does energy efficiency play in climate mitigation?,It lowers energy demand and emissions.,1,literature-inspired
+A-ADV-222,advisory,esg_advisory,How can ESG preferences influence portfolio diversification?,Exclusions may reduce the investable universe.,2,literature-inspired
+Q-TVM-066,quantitative,time_value_of_money,"A perpetuity pays ₹55,000 annually. If the discount rate is 11%, compute its value.","The value of the perpetuity is ₹5,00,000.",1,template
+Q-RISK-018,quantitative,risk_volatility,An asset exhibits asymmetric return distribution. What risk measure may better capture downside risk?,Downside deviation.,3,literature-inspired
+E-SOC-044,esg,social_labor,Why do firms conduct supplier audits for ESG compliance?,To ensure adherence to labor and ethical standards.,2,literature-inspired
+Q-EQ-008,quantitative,equity_valuation,"A stock pays ₹10 as dividend next year and has an expected growth rate of 3%. If its price is ₹200, what is the implied required return?",The implied required return is 8.00%.,2,template
+E-GOV-011,esg,governance_board,Why is ESG expertise on boards increasingly emphasized?,To oversee sustainability risks and opportunities effectively.,2,literature-inspired
+C-BF-036,conceptual,behavioral_finance,How do feedback loops affect financial markets?,"Price movements influence behavior, reinforcing trends.",2,literature-inspired
+A-ADV-228,advisory,esg_advisory,How does ESG integration interact with risk management?,It helps identify non-financial risks early.,2,literature-inspired
+C-CF-009,conceptual,corporate_finance,Why might firms avoid issuing new equity?,It can dilute ownership and signal overvaluation.,2,literature-inspired
+Q-TVM-006,quantitative,time_value_of_money,"What is the future value of ₹1,00,000 invested for 5 years at an annual rate of 9%?","The future value is ₹1,53,862.40.",1,template
+C-BF-001,conceptual,behavioral_finance,What is behavioral finance?,The study of how psychological factors influence financial decisions.,1,literature-inspired
+C-BF-014,conceptual,behavioral_finance,How can herd behavior contribute to asset bubbles?,It amplifies price movements detached from intrinsic value.,2,literature-inspired
+Q-PORT-014,quantitative,portfolio_diversification,A portfolio’s volatility decreases after adding a new asset with similar expected return. What likely changed?,Portfolio correlation structure.,2,synthetic
+Q-BOND-058,quantitative,bond_mixed,Why might duration-based hedging fail when interest rates move sharply?,Convexity effects become significant.,3,literature-inspired
+E-SOC-020,esg,social_inclusion,Why do inclusive growth strategies align with ESG principles?,They balance economic progress with social equity.,2,literature-inspired
+C-CF-007,conceptual,corporate_finance,Why can excessive leverage be harmful?,It raises the risk of financial distress and bankruptcy.,2,literature-inspired
+A-ADV-208,advisory,market_scenarios,How does recency bias distort risk perception under uncertainty?,Recent events are overweighted relative to long-term trends.,2,literature-inspired
+Q-PRD-001,quantitative,portfolio_math,A portfolio has 60% in Asset A (10% return) and 40% in Asset B (6% return). What is expected return?,8.4%.,1,template
+E-GOV-008,esg,governance_board,What responsibilities do board committees typically have?,"Focused oversight of audit, risk, remuneration, and nominations.",1,literature-inspired
+A-ADV-103,advisory,asset_allocation,How can diversification help during market downturns?,It reduces reliance on a single asset class.,1,literature-inspired
+A-ADV-009,advisory,investor_profiling,How does an investor’s age influence asset allocation advice?,Younger investors can typically tolerate more risk.,1,literature-inspired
+A-ADV-021,advisory,investor_profiling,How should an advisor approach a client who seeks high returns but has low risk tolerance?,"By aligning expectations with suitable, lower-volatility options.",2,literature-inspired
+A-ADV-164,advisory,market_scenarios,Why should duration risk be considered when interest rates are volatile?,Longer-duration assets are more sensitive to rate changes.,2,literature-inspired
+C-BF-006,conceptual,behavioral_finance,How does loss aversion influence investment decisions?,Investors may hold losing positions too long.,2,literature-inspired
+E-ENV-025,esg,environment_climate,How does climate change challenge traditional risk models?,Historical data may not capture future climate impacts.,3,literature-inspired
+Q-PRD-004,quantitative,portfolio_math,A portfolio has 70% equity (12%) and 30% bonds (5%). Return?,9.9%.,1,template
+E-GOV-015,esg,governance_board,Why do investors scrutinize board attendance records?,They indicate director commitment and effectiveness.,1,literature-inspired
+Q-TVM-039,quantitative,time_value_of_money,"An annuity pays ₹30,000 annually for 12 years. If the discount rate is 6%, what is its present value?","The present value is ₹2,61,468.77.",2,template
+Q-TVM-053,quantitative,time_value_of_money,"What is the present value of ₹85,000 received after 4 years at a discount rate of 7%?","The present value is ₹64,889.56.",1,template
+Q-ADV-029,quantitative,advanced_tvm,A bond’s duration increases when maturity increases. True or false?,True.,1,literature-inspired
+Q-DER-038,quantitative,futures_basics,Why do futures contracts require margin deposits?,To reduce counterparty default risk.,1,literature-inspired
+Q-DER-035,quantitative,options_basics,Why do option sellers benefit from time decay?,Option value decreases as expiration approaches.,2,literature-inspired
+Q-PORT-011,quantitative,portfolio_returns,A portfolio’s return is lower than expected despite high individual asset returns. What factor could explain this?,Poor asset weighting or concentration risk.,2,synthetic
+A-ADV-081,advisory,asset_allocation,What is the risk–return trade-off in investing?,Higher expected returns generally require accepting higher risk.,1,literature-inspired
+A-ADV-064,advisory,asset_allocation,Why is diversification across asset classes important?,Different assets respond differently to market conditions.,1,literature-inspired
+E-GOV-010,esg,governance_board,How does board oversight reduce agency problems?,It aligns management actions with shareholder interests.,2,literature-inspired
+Q-TVM-065,quantitative,time_value_of_money,"An investment of ₹3,00,000 grows at 7.5% annually. What will it be worth after 8 years?","The future value is ₹5,37,118.92.",2,template
+Q-PORT-010,quantitative,portfolio_diversification,A well-diversified portfolio cannot eliminate what type of risk?,Systematic market risk.,1,literature-inspired
+A-ADV-190,advisory,market_scenarios,Why is avoiding hindsight bias important after crises?,It prevents distorted learning and overconfidence.,2,literature-inspired
+C-CF-030,conceptual,corporate_finance,Why is transparency critical for effective corporate governance?,It reduces information asymmetry and builds trust.,1,literature-inspired
+C-ME-027,conceptual,market_efficiency,How do calendar anomalies challenge market efficiency?,They suggest predictable patterns in returns.,2,literature-inspired
+C-BF-031,conceptual,behavioral_finance,Why might mispricing persist even when information is public?,Investors interpret information differently due to biases.,2,literature-inspired
+Q-BOND-051,quantitative,bond_mixed,A bond’s duration decreases over time even if yields remain constant. What explains this effect?,Time to maturity shortens as the bond ages.,2,synthetic
+C-MKT-027,conceptual,financial_markets,How can market-based finance increase systemic risk?,Interconnected exposures transmit shocks across institutions.,3,literature-inspired
+E-SOC-025,esg,social_inclusion,How can firms measure social impact effectively?,"By tracking relevant, outcome-focused social indicators.",2,literature-inspired
+Q-PORT-004,quantitative,portfolio_returns,A portfolio return increases even though one asset performs poorly. What diversification effect explains this?,Positive performance of other assets offsets losses.,1,synthetic
+E-ESG-008,esg,esg_fundamentals,Why is materiality important in ESG analysis?,It helps identify ESG factors that significantly impact financial performance.,2,literature-inspired
+Q-DER-049,quantitative,swaps_basics,What risk is most significant in over-the-counter swaps?,Counterparty credit risk.,2,literature-inspired
+A-ADV-172,advisory,market_scenarios,Why should investors avoid frequent portfolio changes during macro uncertainty?,Short-term reactions often increase costs and errors.,1,literature-inspired
+C-RR-008,conceptual,risk_return_theory,Why does diversification reduce portfolio volatility?,Imperfect correlations reduce combined variability.,2,literature-inspired
+E-ESG-033,esg,esg_reporting,How does ESG reporting support corporate accountability?,It enables stakeholders to monitor commitments and performance.,1,literature-inspired
+A-ADV-234,advisory,esg_advisory,How can advisors frame periods of ESG underperformance to clients?,As part of long-term strategy rather than short-term failure.,1,literature-inspired
+E-ESG-029,esg,esg_reporting,Why is third-party assurance important for ESG data?,It enhances credibility and reliability.,2,literature-inspired
+Q-ADV-025,quantitative,advanced_tvm,"A growing annuity grows at 4% for 5 years starting at ₹50,000. Discount rate 9%. PV?","₹2,14,156.",3,template
+C-ME-033,conceptual,market_efficiency,How does data mining bias affect anomaly discovery?,Spurious patterns may appear due to repeated testing.,3,literature-inspired
+Q-PRD-026,quantitative,duration,"If interest rates rise, bond prices?",Fall.,1,literature-inspired
+E-GOV-001,esg,governance_board,What does the Governance pillar of ESG primarily address?,"How companies are directed, controlled, and held accountable.",1,literature-inspired
+C-BF-023,conceptual,behavioral_finance,How does noise trader risk affect arbitrage strategies?,Irrational traders can push prices further from fundamentals.,3,literature-inspired
+A-ADV-236,advisory,esg_advisory,How do sector exclusions influence portfolio diversification?,They may increase concentration in remaining sectors.,2,literature-inspired
+C-CF-029,conceptual,corporate_finance,What governance risk arises from related-party transactions?,Potential self-dealing and conflicts of interest.,2,literature-inspired
+C-RR-014,conceptual,risk_return_theory,What is the efficient frontier?,The set of portfolios offering the highest return for a given level of risk.,2,template
+Q-PRD-003,quantitative,portfolio_math,"If portfolio return is weighted average, what happens when weights shift to higher-return assets?",Expected return increases.,1,literature-inspired
+Q-BOND-003,quantitative,bond_pricing,"A bond with face value ₹1,000 pays an annual coupon of 9% for 7 years. If the YTM is 10%, what is the bond price?",The bond price is approximately ₹951.78.,2,template
+C-BF-016,conceptual,behavioral_finance,Why does availability bias increase perceived market risk after crises?,Recent negative events dominate investor thinking.,2,literature-inspired
+Q-PORT-042,quantitative,portfolio_beta,A stock has a negative beta. What does this imply?,It tends to move opposite to the market.,2,literature-inspired
+C-FI-011,conceptual,financial_intermediation,Why can financial intermediation enhance economic growth?,It improves capital allocation efficiency.,2,literature-inspired
+C-ME-021,conceptual,market_efficiency,What is a market anomaly?,A return pattern that contradicts traditional market efficiency predictions.,1,literature-inspired
+E-GOV-050,esg,governance_disclosure,Why are related-party disclosures critical for transparency?,They reveal potential conflicts of interest.,2,literature-inspired
+A-ADV-219,advisory,esg_advisory,Why is clarity about ESG methodology important for investors?,It helps manage expectations and trust.,1,literature-inspired
+C-BF-018,conceptual,behavioral_finance,How does framing affect investment choices?,Decisions vary depending on how options are presented.,2,literature-inspired
+E-GOV-056,esg,governance_disclosure,Why is integrated reporting relevant to governance?,"It links strategy, risk, and sustainability performance.",2,literature-inspired
+E-GOV-022,esg,governance_ethics,What is a code of conduct?,A formal document outlining expected ethical behavior.,1,template
+Q-BOND-055,quantitative,bond_mixed,A bond priced near par reacts less asymmetrically to yield changes than a deep-discount bond. Which concept explains this?,Convexity differences.,3,synthetic
+Q-ADV-002,quantitative,advanced_tvm,"A project pays ₹90,000 annually for 6 years with a discount rate of 9%. What is the present value of cash flows?","PV = ₹4,16,930.",2,template
+Q-TVM-061,quantitative,time_value_of_money,"What is the future value of ₹90,000 invested for 6 years at an annual interest rate of 8%?","The future value is ₹1,42,795.59.",1,template
+Q-PRD-037,quantitative,options,Delta of a call option represents what?,Sensitivity to stock price changes.,2,literature-inspired
+A-ADV-249,advisory,esg_advisory,Why is ESG disclosure quality important in advisory discussions?,It affects credibility and risk assessment.,1,literature-inspired
+C-ME-003,conceptual,market_efficiency,What does semi-strong form efficiency imply?,Prices reflect all publicly available information.,1,template
+A-ADV-150,advisory,market_scenarios,Why should short-term market noise be separated from long-term fundamentals?,Short-term movements may not reflect intrinsic value.,1,literature-inspired
+A-ADV-072,advisory,asset_allocation,Why is international diversification beneficial?,It reduces country-specific risk.,1,literature-inspired
+C-RR-028,conceptual,risk_return_theory,What does beta measure in asset pricing models?,An asset’s sensitivity to market-wide movements.,1,template
+Q-DER-009,quantitative,options_basics,An investor buys a put option to protect a stock position. What strategy is this?,Protective put.,2,literature-inspired
+C-BF-034,conceptual,behavioral_finance,How does market momentum relate to behavioral finance?,Investors chase trends due to delayed reaction to information.,2,literature-inspired
+A-ADV-175,advisory,market_scenarios,How can advisors help clients contextualize macroeconomic news?,By focusing on long-term plans rather than headlines.,1,literature-inspired
+Q-RISK-005,quantitative,risk_volatility,Why is standard deviation commonly used as a risk measure?,It captures the dispersion of returns around the mean.,1,literature-inspired
+Q-DER-027,quantitative,options_basics,Which option has higher time value: an at-the-money option or a deep in-the-money option?,At-the-money option.,2,literature-inspired
+C-MKT-022,conceptual,financial_markets,Why do well-functioning markets require both regulation and competition?,Regulation ensures fairness while competition improves efficiency.,2,literature-inspired
+E-SOC-005,esg,social_inclusion,How does financial inclusion contribute to sustainable economic growth?,It promotes participation and resilience across the economy.,2,literature-inspired
+A-ADV-220,advisory,esg_advisory,How should advisors handle conflicting financial and ESG objectives?,By explaining trade-offs and aligning priorities.,2,literature-inspired
+A-ADV-015,advisory,investor_profiling,How does investment horizon affect reactions to market downturns?,Longer horizons allow recovery from temporary losses.,1,literature-inspired
+C-BF-015,conceptual,behavioral_finance,What is availability bias?,Overweighting information that is easily recalled.,1,template
+Q-BOND-047,quantitative,bond_mixed,A portfolio manager shifts from long-duration bonds to short-duration bonds in anticipation of rate hikes. What risk is being managed?,Interest rate risk.,1,literature-inspired
+Q-EQ-009,quantitative,equity_valuation,A firm’s stock price increases even though earnings remain constant. What valuation factor could explain this?,A decline in the required rate of return.,2,synthetic
+E-GOV-029,esg,governance_ethics,How do incentive structures affect ethical behavior?,Misaligned incentives encourage misconduct.,2,literature-inspired
+A-ADV-135,advisory,asset_allocation,How do data limitations affect ESG-aware allocation decisions?,Incomplete data may reduce confidence in ESG assessments.,2,literature-inspired
+Q-PRD-028,quantitative,duration,Higher coupon bonds have duration compared to low coupon bonds?,Lower duration.,2,literature-inspired
