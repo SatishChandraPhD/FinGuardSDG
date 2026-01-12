@@ -1,0 +1,20 @@
+{
+  "total_rows": 1160,
+  "unique_ids": 1160,
+  "category_counts": {
+    "quantitative": 440,
+    "advisory": 260,
+    "conceptual": 240,
+    "esg": 220
+  },
+  "difficulty_distribution": {
+    "2": 565,
+    "1": 502,
+    "3": 93
+  },
+  "source_distribution": {
+    "literature-inspired": 852,
+    "template": 209,
+    "synthetic": 99
+  }
+}
