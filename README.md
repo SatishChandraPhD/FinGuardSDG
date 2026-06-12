@@ -4,7 +4,6 @@
 **FinGuard-SDG** is a reproducible research codebase accompanying the paper:
 
 **FinGuard-SDG: A Hybrid Multi-Agent Routing Architecture for Sustainable Financial Analytics**
-(IEEE CSCloud 2025; extended journal version under preparation)
 
 The repository provides:
   * a curated multi-task financial benchmark dataset aligned with the **UN Sustainable Development Goals (SDGs)**,
@@ -135,9 +134,7 @@ Models are saved and loaded relative to MODEL_DIR.
 **📄 Related Publication**
 
 This repository accompanies:
-<pre>FinGuard-SDG: A Hybrid Multi-Agent Routing Architecture for Sustainable Financial Analytics
-IEEE CSCloud 2025
-(Extended journal version submitted to FinTech and Sustainable Innovation)</pre>
+Journal manuscript submitted to FinTech and Sustainable Innovation</pre>
 A DOI / preprint link will be added upon publication.
 
 **📜 License**
