@@ -103,8 +103,7 @@ This repository accompanies the paper:
  
 **FinGuard-SDG: A Hybrid Multi-Agent Routing Architecture for Sustainable Financial Analytics**
  
-IEEE CSCloud 2025 (extended journal version under preparation)
-</pre>
+Journal manuscript submitted to Fintech and Sustainable Journal </pre>
 
 The paper contains:
 <pre>
